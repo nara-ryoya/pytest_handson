@@ -5,3 +5,10 @@ pytestのtipsを記述したレポジトリ
 - pytest.fixture
 - pytest.mark.parametrize
 - pytestでのmock化
+
+## 環境構築
+pyenv, pipenvを使えるようにした上で、以下の2つのコマンドを実行。
+
+`$pipenv shell`
+
+`$pipenv install`
